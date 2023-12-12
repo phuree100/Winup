@@ -1,0 +1,6 @@
+The Paid Verison is 5.0.7 (Beta)
+  Add Commands
+   1. commander.3-0
+
+price: 1 $, 35 ฿, 145 ¥
+buy get: Truemoney, PayPal, MasterCard, 
